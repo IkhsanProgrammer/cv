@@ -6,7 +6,7 @@
 body{
 	font:16px helvetica, sans-serif;
 	line-height: 24px;
-    	background-color: rgb(89, 53, 15);
+    	background: url(images/noise.jpg);
 }
 
 .clear{
